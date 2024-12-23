@@ -8,4 +8,3 @@ public class MainClass { // test
 }
 // Password of IkotLaSalle Driver: 1234Test
 // This code was connected to GitHub repository
-// test

@@ -6,7 +6,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 
-public class IkotLaSalle {
+public class IkotLaSalle { // third feature
 	private static IkotLaSalle instance;
 	private int passTotal = 12;
 	private int passAvail = passTotal;

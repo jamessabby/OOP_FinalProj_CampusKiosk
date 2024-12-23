@@ -2,7 +2,7 @@ package finalterm9_FinalProjectKiosk;
 
 import javax.swing.JOptionPane;
 
-public class GeneralServices {
+public class GeneralServices { // first feature
 	public void showServices() {
 		// Departments available
 		String[] departments = { "1 - Ayuntamiento", "2 - ICTC", "3 -Aklatang Emilio Aguinaldo", "4 - SWAFO" };
