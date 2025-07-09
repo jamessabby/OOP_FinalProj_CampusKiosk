@@ -12,11 +12,6 @@
 - 🗺️ **Interactive School Map**: Navigate key locations and buildings inside campus
 - 🚐 **Ikot La Salle Jeepney System**: Reserve or manage trips for the campus shuttle service
 
-> ![Campus Kiosk Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFta3dtcjdldGRicXl4N3d5dmZobWtuYjk5NzV0ZGZnaXF1cXRoMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mgqefqwSbToPe/giphy.gif)
-> *Demo of a kiosk-style interaction using JOptionPane*
-
----
-
 ## 🛠️ HOW It Works
 
 ### 📂 Technologies Used
