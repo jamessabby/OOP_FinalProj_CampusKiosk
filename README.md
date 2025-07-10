@@ -1,9 +1,3 @@
-# Campus Kiosk
-
-A smart kiosk interface for DLSU-D designed to provide accessible campus services using Java Swing.
-
----
-
 ## What is Campus Kiosk?
 
 **Campus Kiosk** is a Java desktop application built with `JOptionPane` and `JFrame` to simulate a self-service kiosk station located at DLSU-D's Gate 1 Rotunda. It provides students and staff access to:
